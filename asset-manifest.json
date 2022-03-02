@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9f27b80.css",
-    "main.js": "/static/js/main.ab581892.js",
+    "main.css": "/static/css/main.eb993d71.css",
+    "main.js": "/static/js/main.05ef4b35.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.3cfbef7c5292233d91b3.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/bgTimeline.svg": "/static/media/bgTimeline.142a233b683fb3867361810a76e195ec.svg",
@@ -22,9 +22,9 @@
     "static/media/9.png": "/static/media/9.b77b434d0ea4c1cbbea4.png",
     "static/media/8.png": "/static/media/8.877b34e3a2fe6e3dce95.png",
     "static/media/15.png": "/static/media/15.468741a5ae3e7e3d9f63.png",
-    "static/media/el.png": "/static/media/el.dd5fdf1af566f0b99ae1.png",
-    "static/media/poster.png": "/static/media/poster.ba8a0adf3aed37feaa17.png",
-    "static/media/paper.png": "/static/media/paper.1a0769a777768cea09a6.png",
+    "static/media/el.png": "/static/media/el.f7d93060763a4eb8dbcc.png",
+    "static/media/poster.png": "/static/media/poster.3b7d327e2fa72cf13b1b.png",
+    "static/media/paper.png": "/static/media/paper.aca4ab8971082a29b3f2.png",
     "static/media/6.png": "/static/media/6.5e1967ab51d254264378.png",
     "static/media/2.png": "/static/media/2.8fd10f7e411f5dbaf247.png",
     "static/media/10.png": "/static/media/10.5d563bfd28e1ad8f7d94.png",
@@ -44,10 +44,12 @@
     "static/media/LogoNescoRounded.png": "/static/media/LogoNescoRounded.ed6f28e35c2117eb4621.png",
     "static/media/timelineEI-hp.png": "/static/media/timelineEI-hp.70c52ad16c4e6571ec07.png",
     "static/media/logo.png": "/static/media/logo.824c00dd56e1619a51b9.png",
+    "static/media/elips.png": "/static/media/elips.2093e2c43169868543fa.png",
     "static/media/timelinePoster-hp.png": "/static/media/timelinePoster-hp.2e9fe45c7f6917419ff2.png",
     "static/media/sutet.svg": "/static/media/sutet.0d242dfab36ebac076567fdd11724bd6.svg",
     "static/media/timelinePaper-hp.png": "/static/media/timelinePaper-hp.1847a5b4ddd9d4f062c0.png",
     "static/media/auth.svg": "/static/media/auth.53e72409a84dc618a748ade9f6d413ab.svg",
+    "static/media/elips2.png": "/static/media/elips2.60cad0bc0cec628f4eca.png",
     "static/media/login.svg": "/static/media/login.c32d0b1852c09cad7ec0c2b48c389957.svg",
     "static/media/welcome.svg": "/static/media/welcome.94d0cacf2f055d619212bdb33fca99a6.svg",
     "static/media/forget.svg": "/static/media/forget.4195c220b1bf4a41ccabb1a4a3d614fb.svg",
@@ -63,11 +65,11 @@
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
     "static/media/siku-putih.svg": "/static/media/siku-putih.dcc46045792db8b256521b4fce3a4e2a.svg",
-    "main.c9f27b80.css.map": "/static/css/main.c9f27b80.css.map",
-    "main.ab581892.js.map": "/static/js/main.ab581892.js.map"
+    "main.eb993d71.css.map": "/static/css/main.eb993d71.css.map",
+    "main.05ef4b35.js.map": "/static/js/main.05ef4b35.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9f27b80.css",
-    "static/js/main.ab581892.js"
+    "static/css/main.eb993d71.css",
+    "static/js/main.05ef4b35.js"
   ]
 }
