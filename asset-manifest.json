@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.37c7d9bb.css",
-    "main.js": "/static/js/main.b6d75a45.js",
+    "main.css": "/static/css/main.2a00b878.css",
+    "main.js": "/static/js/main.a60dce6b.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.3cfbef7c5292233d91b3.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
+    "static/media/PosterButton.png": "/static/media/PosterButton.fa878052b3c07b7a51e6.png",
+    "static/media/ElectricalButton.png": "/static/media/ElectricalButton.e54c46f48261fbcab7dd.png",
+    "static/media/PaperButton.png": "/static/media/PaperButton.17ed79ba9aeb080e4a6c.png",
     "static/media/bgTimeline.svg": "/static/media/bgTimeline.142a233b683fb3867361810a76e195ec.svg",
     "static/media/LogoNesco.png": "/static/media/LogoNesco.4f67cd9f8febcf8543f8.png",
     "static/media/LoginBackground.svg": "/static/media/LoginBackground.30db7700d8aeeaed7a835f458bf212b7.svg",
@@ -65,11 +68,11 @@
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
     "static/media/siku-putih.svg": "/static/media/siku-putih.dcc46045792db8b256521b4fce3a4e2a.svg",
-    "main.37c7d9bb.css.map": "/static/css/main.37c7d9bb.css.map",
-    "main.b6d75a45.js.map": "/static/js/main.b6d75a45.js.map"
+    "main.2a00b878.css.map": "/static/css/main.2a00b878.css.map",
+    "main.a60dce6b.js.map": "/static/js/main.a60dce6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c7d9bb.css",
-    "static/js/main.b6d75a45.js"
+    "static/css/main.2a00b878.css",
+    "static/js/main.a60dce6b.js"
   ]
 }
