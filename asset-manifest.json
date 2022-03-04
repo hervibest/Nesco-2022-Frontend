@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d26aec.css",
-    "main.js": "/static/js/main.80632e63.js",
+    "main.css": "/static/css/main.aa975dea.css",
+    "main.js": "/static/js/main.d80b1818.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/goldmedal.png": "/static/media/goldmedal.9a6dbacc239e115209d9.png",
@@ -39,18 +39,18 @@
     "static/media/16.png": "/static/media/16.d73e7c4cf9735de443a8.png",
     "static/media/12.png": "/static/media/12.5954c490d77a94ed9086.png",
     "static/media/timelineHome.png": "/static/media/timelineHome.6cd5855e27008e340a8b.png",
-    "static/media/timelineEi.png": "/static/media/timelineEi.5288f419d32bc2cae445.png",
-    "static/media/timelinePoster.png": "/static/media/timelinePoster.70756fd293727b04840b.png",
-    "static/media/timelinePaper.png": "/static/media/timelinePaper.ea751372a8f0326e7443.png",
+    "static/media/timelineEi.png": "/static/media/timelineEi.317f88b45b61e1908aed.png",
+    "static/media/timelinePaper.png": "/static/media/timelinePaper.e64fe3e5f7f41cb475b4.png",
+    "static/media/timelinePoster.png": "/static/media/timelinePoster.cdeafcedc3fbef3fd0d6.png",
     "static/media/pitaharapan.png": "/static/media/pitaharapan.c789a97848e4bfd838c5.png",
     "static/media/judulfaq.png": "/static/media/judulfaq.ecb950269da10f6b0773.png",
     "static/media/timelineHome-hp.png": "/static/media/timelineHome-hp.d46716912238b0c62f32.png",
     "static/media/LogoNescoRounded.png": "/static/media/LogoNescoRounded.ed6f28e35c2117eb4621.png",
-    "static/media/timelineEi-hp.png": "/static/media/timelineEi-hp.d899e05441dda1fc2f13.png",
+    "static/media/timelineEi-hp.png": "/static/media/timelineEi-hp.22551dd63cf0b5f5740c.png",
     "static/media/logo.png": "/static/media/logo.824c00dd56e1619a51b9.png",
-    "static/media/timelinePoster-hp.png": "/static/media/timelinePoster-hp.398a1041adae2f2ed32c.png",
+    "static/media/timelinePoster-hp.png": "/static/media/timelinePoster-hp.7039076e6b79dafc16fd.png",
+    "static/media/timelinePaper-hp.png": "/static/media/timelinePaper-hp.2236bde0668cdc164685.png",
     "static/media/elips.png": "/static/media/elips.2093e2c43169868543fa.png",
-    "static/media/timelinePaper-hp.png": "/static/media/timelinePaper-hp.a6511874c427cc990e30.png",
     "static/media/sutet.svg": "/static/media/sutet.0d242dfab36ebac076567fdd11724bd6.svg",
     "static/media/auth.svg": "/static/media/auth.53e72409a84dc618a748ade9f6d413ab.svg",
     "static/media/elips2.png": "/static/media/elips2.60cad0bc0cec628f4eca.png",
@@ -68,11 +68,11 @@
     "static/media/HomeNescoVector.svg": "/static/media/HomeNescoVector.3b44cd2a0b8b27fbb59ac9c768a50149.svg",
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
-    "main.90d26aec.css.map": "/static/css/main.90d26aec.css.map",
-    "main.80632e63.js.map": "/static/js/main.80632e63.js.map"
+    "main.aa975dea.css.map": "/static/css/main.aa975dea.css.map",
+    "main.d80b1818.js.map": "/static/js/main.d80b1818.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d26aec.css",
-    "static/js/main.80632e63.js"
+    "static/css/main.aa975dea.css",
+    "static/js/main.d80b1818.js"
   ]
 }
