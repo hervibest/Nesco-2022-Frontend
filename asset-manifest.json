@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e58509c2.css",
-    "main.js": "/static/js/main.c5a8dc7c.js",
+    "main.css": "/static/css/main.310070d3.css",
+    "main.js": "/static/js/main.b721fdff.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/goldmedal.png": "/static/media/goldmedal.9a6dbacc239e115209d9.png",
@@ -69,11 +69,11 @@
     "static/media/HomeNescoVector.svg": "/static/media/HomeNescoVector.3b44cd2a0b8b27fbb59ac9c768a50149.svg",
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
-    "main.e58509c2.css.map": "/static/css/main.e58509c2.css.map",
-    "main.c5a8dc7c.js.map": "/static/js/main.c5a8dc7c.js.map"
+    "main.310070d3.css.map": "/static/css/main.310070d3.css.map",
+    "main.b721fdff.js.map": "/static/js/main.b721fdff.js.map"
   },
   "entrypoints": [
-    "static/css/main.e58509c2.css",
-    "static/js/main.c5a8dc7c.js"
+    "static/css/main.310070d3.css",
+    "static/js/main.b721fdff.js"
   ]
 }
