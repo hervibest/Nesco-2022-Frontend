@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88aa243f.css",
-    "main.js": "/static/js/main.ebaf3736.js",
+    "main.css": "/static/css/main.0765cd72.css",
+    "main.js": "/static/js/main.0e4dd237.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/goldmedal.png": "/static/media/goldmedal.9a6dbacc239e115209d9.png",
@@ -58,6 +58,7 @@
     "static/media/CloseButton.png": "/static/media/CloseButton.e134f931fbea1c5c57c6.png",
     "static/media/coomingsoon.svg": "/static/media/coomingsoon.941e6a6689ba198bdc0ebd94f26ed658.svg",
     "static/media/login.svg": "/static/media/login.c32d0b1852c09cad7ec0c2b48c389957.svg",
+    "static/media/icon.png": "/static/media/icon.d0bdda142b56d28df5bb.png",
     "static/media/welcome.svg": "/static/media/welcome.94d0cacf2f055d619212bdb33fca99a6.svg",
     "static/media/forget.svg": "/static/media/forget.4195c220b1bf4a41ccabb1a4a3d614fb.svg",
     "static/media/bg.svg": "/static/media/bg.3ac01a5aa3fd0d31c63e3f72aff8a4b8.svg",
@@ -71,11 +72,11 @@
     "static/media/HomeNescoVector.svg": "/static/media/HomeNescoVector.3b44cd2a0b8b27fbb59ac9c768a50149.svg",
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
-    "main.88aa243f.css.map": "/static/css/main.88aa243f.css.map",
-    "main.ebaf3736.js.map": "/static/js/main.ebaf3736.js.map"
+    "main.0765cd72.css.map": "/static/css/main.0765cd72.css.map",
+    "main.0e4dd237.js.map": "/static/js/main.0e4dd237.js.map"
   },
   "entrypoints": [
-    "static/css/main.88aa243f.css",
-    "static/js/main.ebaf3736.js"
+    "static/css/main.0765cd72.css",
+    "static/js/main.0e4dd237.js"
   ]
 }
