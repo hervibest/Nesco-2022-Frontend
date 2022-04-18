@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3728ba96.css",
-    "main.js": "/static/js/main.71277084.js",
+    "main.css": "/static/css/main.a8e90aeb.css",
+    "main.js": "/static/js/main.c9349b3e.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
+    "static/media/sre.png": "/static/media/sre.c5ef88790631a4ebca88.png",
+    "static/media/dem.png": "/static/media/dem.c4fede599f344a704005.png",
+    "static/media/polinema.jpg": "/static/media/polinema.50f4f9c131ea4ecc8ce5.jpg",
+    "static/media/magenta.png": "/static/media/magenta.3039d1119b462e12519a.png",
     "static/media/goldmedal.png": "/static/media/goldmedal.9a6dbacc239e115209d9.png",
     "static/media/PosterButton.png": "/static/media/PosterButton.fa878052b3c07b7a51e6.png",
     "static/media/ElectricalButton.png": "/static/media/ElectricalButton.e54c46f48261fbcab7dd.png",
@@ -39,7 +43,9 @@
     "static/media/16.png": "/static/media/16.d73e7c4cf9735de443a8.png",
     "static/media/12.png": "/static/media/12.5954c490d77a94ed9086.png",
     "static/media/timelineHome.png": "/static/media/timelineHome.6cd5855e27008e340a8b.png",
+    "static/media/geronimo1.jpg": "/static/media/geronimo1.40318b45dc5a1f73a096.jpg",
     "static/media/timelineEi.png": "/static/media/timelineEi.33b41570705cf223e132.png",
+    "static/media/swaragama.png": "/static/media/swaragama.939013fbe96131863bb1.png",
     "static/media/timelinePaper.png": "/static/media/timelinePaper.31415fac55e3a82cc9e3.png",
     "static/media/timelinePoster.png": "/static/media/timelinePoster.7fa8ea83c5e2ac4d2ebb.png",
     "static/media/pitaharapan.png": "/static/media/pitaharapan.c789a97848e4bfd838c5.png",
@@ -72,11 +78,11 @@
     "static/media/HomeNescoVector.svg": "/static/media/HomeNescoVector.3b44cd2a0b8b27fbb59ac9c768a50149.svg",
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
-    "main.3728ba96.css.map": "/static/css/main.3728ba96.css.map",
-    "main.71277084.js.map": "/static/js/main.71277084.js.map"
+    "main.a8e90aeb.css.map": "/static/css/main.a8e90aeb.css.map",
+    "main.c9349b3e.js.map": "/static/js/main.c9349b3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3728ba96.css",
-    "static/js/main.71277084.js"
+    "static/css/main.a8e90aeb.css",
+    "static/js/main.c9349b3e.js"
   ]
 }
