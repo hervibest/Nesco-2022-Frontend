@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8618c0a8.css",
-    "main.js": "/static/js/main.ba8bb3ca.js",
+    "main.css": "/static/css/main.af28cb2e.css",
+    "main.js": "/static/js/main.b4114e1b.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/maskot.svg": "/static/media/maskot.c758b2b82ffa43ca4ea4b0779720bd41.svg",
@@ -54,6 +54,7 @@
     "static/media/timelinePaper.png": "/static/media/timelinePaper.6cd05958b153beb0cda6.png",
     "static/media/timelinePoster.png": "/static/media/timelinePoster.a8c6149513a6fcff72bf.png",
     "static/media/pitaharapan.png": "/static/media/pitaharapan.c789a97848e4bfd838c5.png",
+    "static/media/pln.jpg": "/static/media/pln.c4adb026fad4f3b95e86.jpg",
     "static/media/webinarnas.png": "/static/media/webinarnas.24401809e2973698f7fe.png",
     "static/media/judulfaq.png": "/static/media/judulfaq.ecb950269da10f6b0773.png",
     "static/media/timelineHome-hp.png": "/static/media/timelineHome-hp.abe17733a2737a25de11.png",
@@ -99,11 +100,11 @@
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
     "static/media/Vector.svg": "/static/media/Vector.4414eb864cfc86aeefef92b3b624c994.svg",
-    "main.8618c0a8.css.map": "/static/css/main.8618c0a8.css.map",
-    "main.ba8bb3ca.js.map": "/static/js/main.ba8bb3ca.js.map"
+    "main.af28cb2e.css.map": "/static/css/main.af28cb2e.css.map",
+    "main.b4114e1b.js.map": "/static/js/main.b4114e1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8618c0a8.css",
-    "static/js/main.ba8bb3ca.js"
+    "static/css/main.af28cb2e.css",
+    "static/js/main.b4114e1b.js"
   ]
 }
