@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6cf963e.css",
-    "main.js": "/static/js/main.89909331.js",
+    "main.css": "/static/css/main.134c63b6.css",
+    "main.js": "/static/js/main.3e1aeefc.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
+    "static/media/pembicara1.svg": "/static/media/pembicara1.b90b8b9a658eb2062f4371f7f7be1fd6.svg",
     "static/media/maskot.svg": "/static/media/maskot.c758b2b82ffa43ca4ea4b0779720bd41.svg",
     "static/media/sre.png": "/static/media/sre.c5ef88790631a4ebca88.png",
     "static/media/dem.png": "/static/media/dem.c4fede599f344a704005.png",
+    "static/media/pembicara2.svg": "/static/media/pembicara2.8a7bceefdabf11fcf2c060437dceb479.svg",
+    "static/media/pembicara3.svg": "/static/media/pembicara3.e6041e2fe97263248faf328b4c49aa72.svg",
     "static/media/MaskotSemangat.png": "/static/media/MaskotSemangat.20aef7d4ea57a82ef7ba.png",
     "static/media/polinema.jpg": "/static/media/polinema.50f4f9c131ea4ecc8ce5.jpg",
     "static/media/magenta.png": "/static/media/magenta.3039d1119b462e12519a.png",
@@ -106,11 +109,11 @@
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
     "static/media/Vector.svg": "/static/media/Vector.4414eb864cfc86aeefef92b3b624c994.svg",
-    "main.e6cf963e.css.map": "/static/css/main.e6cf963e.css.map",
-    "main.89909331.js.map": "/static/js/main.89909331.js.map"
+    "main.134c63b6.css.map": "/static/css/main.134c63b6.css.map",
+    "main.3e1aeefc.js.map": "/static/js/main.3e1aeefc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6cf963e.css",
-    "static/js/main.89909331.js"
+    "static/css/main.134c63b6.css",
+    "static/js/main.3e1aeefc.js"
   ]
 }
