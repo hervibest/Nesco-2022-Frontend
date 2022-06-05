@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5bad47f.css",
-    "main.js": "/static/js/main.48958c72.js",
+    "main.css": "/static/css/main.9a64a02a.css",
+    "main.js": "/static/js/main.6a544dc6.js",
     "static/media/TeaserVideo.mp4": "/static/media/TeaserVideo.e97f4e3cdc715ea0d685.mp4",
     "static/media/LoginBackground.png": "/static/media/LoginBackground.594366bca3c9a58e3f52.png",
     "static/media/pembicara1.svg": "/static/media/pembicara1.b90b8b9a658eb2062f4371f7f7be1fd6.svg",
@@ -13,6 +13,7 @@
     "static/media/pembicara3.svg": "/static/media/pembicara3.e6041e2fe97263248faf328b4c49aa72.svg",
     "static/media/HMJTE.png": "/static/media/HMJTE.36b5f11b93ac335ce753.png",
     "static/media/MaskotSemangat.png": "/static/media/MaskotSemangat.20aef7d4ea57a82ef7ba.png",
+    "static/media/CurrentlyElectrifying.png": "/static/media/CurrentlyElectrifying.99bf60ce2e2af1de26ff.png",
     "static/media/polinema.jpg": "/static/media/polinema.50f4f9c131ea4ecc8ce5.jpg",
     "static/media/sreunair.jpg": "/static/media/sreunair.d0533635572160e739f8.jpg",
     "static/media/magenta.png": "/static/media/magenta.3039d1119b462e12519a.png",
@@ -115,11 +116,11 @@
     "static/media/bgCompetitions.svg": "/static/media/bgCompetitions.28ed4a9685c20a621f929690e5507dcc.svg",
     "index.html": "/index.html",
     "static/media/Vector.svg": "/static/media/Vector.4414eb864cfc86aeefef92b3b624c994.svg",
-    "main.c5bad47f.css.map": "/static/css/main.c5bad47f.css.map",
-    "main.48958c72.js.map": "/static/js/main.48958c72.js.map"
+    "main.9a64a02a.css.map": "/static/css/main.9a64a02a.css.map",
+    "main.6a544dc6.js.map": "/static/js/main.6a544dc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5bad47f.css",
-    "static/js/main.48958c72.js"
+    "static/css/main.9a64a02a.css",
+    "static/js/main.6a544dc6.js"
   ]
 }
